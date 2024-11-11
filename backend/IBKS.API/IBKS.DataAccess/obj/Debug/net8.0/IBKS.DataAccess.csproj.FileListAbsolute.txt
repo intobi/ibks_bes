@@ -1,0 +1,12 @@
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\bin\Debug\net8.0\IBKS.DataAccess.deps.json
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\bin\Debug\net8.0\IBKS.DataAccess.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\bin\Debug\net8.0\IBKS.DataAccess.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\IBKS.DataAccess.csproj.AssemblyReference.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\IBKS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\IBKS.DataAccess.AssemblyInfoInputs.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\IBKS.DataAccess.AssemblyInfo.cs
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\IBKS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\IBKS.DataAccess.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\refint\IBKS.DataAccess.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\IBKS.DataAccess.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.DataAccess\obj\Debug\net8.0\ref\IBKS.DataAccess.dll

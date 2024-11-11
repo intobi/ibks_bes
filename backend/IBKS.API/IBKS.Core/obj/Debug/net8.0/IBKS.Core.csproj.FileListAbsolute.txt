@@ -1,0 +1,15 @@
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\bin\Debug\net8.0\IBKS.Core.deps.json
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\bin\Debug\net8.0\IBKS.Core.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\bin\Debug\net8.0\IBKS.Core.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\IBKS.Core.csproj.AssemblyReference.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\IBKS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\IBKS.Core.AssemblyInfoInputs.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\IBKS.Core.AssemblyInfo.cs
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\IBKS.Core.csproj.CoreCompileInputs.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\IBKS.Core.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\refint\IBKS.Core.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\IBKS.Core.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\ref\IBKS.Core.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\bin\Debug\net8.0\IBKS.DataAccess.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\bin\Debug\net8.0\IBKS.DataAccess.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Core\obj\Debug\net8.0\IBKS.Core.csproj.Up2Date

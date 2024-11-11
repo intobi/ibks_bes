@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sMHZD+6FTwwm6h2kwR/8xVPPAegUZdcWnwWa9ObLgXU=",
+  "Source": "IBKS.API",
+  "BasePath": "_content/IBKS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

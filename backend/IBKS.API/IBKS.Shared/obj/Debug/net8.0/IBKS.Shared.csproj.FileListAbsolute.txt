@@ -1,0 +1,17 @@
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\bin\Debug\net8.0\IBKS.Shared.deps.json
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\bin\Debug\net8.0\IBKS.Shared.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\bin\Debug\net8.0\IBKS.Shared.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\bin\Debug\net8.0\IBKS.Core.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\bin\Debug\net8.0\IBKS.DataAccess.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\bin\Debug\net8.0\IBKS.DataAccess.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\bin\Debug\net8.0\IBKS.Core.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\IBKS.Shared.csproj.AssemblyReference.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\IBKS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\IBKS.Shared.AssemblyInfoInputs.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\IBKS.Shared.AssemblyInfo.cs
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\IBKS.Shared.csproj.CoreCompileInputs.cache
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\IBKS.Sha.67BBBC29.Up2Date
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\IBKS.Shared.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\refint\IBKS.Shared.dll
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\IBKS.Shared.pdb
+C:\Intobi\IBKS\backend\IBKS.API\IBKS.Shared\obj\Debug\net8.0\ref\IBKS.Shared.dll

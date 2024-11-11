@@ -1,0 +1,168 @@
+.app {
+  display: flex;
+}
+
+.ticket-list {
+  width: 50%;
+  border-right: 1px solid #ccc;
+  padding: 1rem;
+}
+
+.ticket-details {
+  width: 60%;
+  padding: 1rem;
+}
+
+.pagination-controls {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.replies {
+  margin-top: 1rem;
+}
+
+.replies-list {
+  max-height: 200px;
+  overflow-y: scroll;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+}
+
+.pagination-control {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.pagination-control button {
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.pagination-control select {
+  padding: 5px;
+  font-size: 14px;
+}
+
+.ticket-general-details {
+  display: flex;
+  justify-content: space-between;
+  :first-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p {
+      margin: unset;
+    }
+  }
+}
+
+.adaptive-button {
+  width: 150px;
+}
+
+.adaptive-description {
+  height: 150px;
+}
+
+.centered-replies {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.centered-replies {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.replies {
+  max-height: 300px;      
+  overflow-y: auto;      
+  width: 75%;            
+  padding-right: 10px; 
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+.reply {
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.pagination-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.adaptive-app {
+  display: flex;
+  justify-content: start;
+  flex-direction: row;
+}
+
+.general-adaptive-container {
+  display: flex;
+}
+
+.right-general-container {
+  width: 50%
+}
+
+.left-general-container {
+  width: 50%;
+}
+
+@media(max-width: 1024px) {
+  .adaptive-app {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+  }
+
+  .ticket-list {
+    width: 100%;
+  }
+
+  .ticket-details {
+    width: 100%;
+  }
+
+  .right-general-container {
+    margin-top: 20px;
+    width: 100%
+  }
+
+  .left-general-container {
+    width: 100%
+  }
+
+  .general-adaptive-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 425px) {
+  .adaptive-control-button {
+    height: 40px;
+  }
+}

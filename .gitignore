@@ -1,0 +1,29 @@
+frontend/ticketing-system/node_modules
+frontend/ticketing-system//.pnp
+frontend/ticketing-system/.pnp.js
+
+# testing
+frontend/ticketing-system/coverage
+
+# production
+frontend/ticketing-system/build
+
+# misc
+frontend/ticketing-system/.DS_Store
+frontend/ticketing-system/.env.local
+frontend/ticketing-system/.env.development.local
+frontend/ticketing-system/.env.test.local
+frontend/ticketing-system/.env.production.local
+
+frontend/ticketing-system/npm-debug.log*
+frontend/ticketing-system/yarn-debug.log*
+frontend/ticketing-system/yarn-error.log*
+
+backend/IBKS.API/IBKS.Api/appsettings.*.json
+backend/IBKS.API/IBKS.Api/aws-beanstalk-tools-defaults.json
+backend/IBKS.API/.vs/
+backend/IBKS.API/obj/
+backend/IBKS.API/bin/
+backend/IBKS.API/.idea
+backend/IBKS.API/IBKS.Api/hf.db
+backend/IBKS.API/IBKS.Api/hf-log.db
